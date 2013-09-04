@@ -1,0 +1,17 @@
+{
+    "name": "jeffwhitfield/silverstripe-bootstrap-theme",
+    "description": "A SilverStripe Bootstrap theme that incorporates HTML5 Boilerplate, Twitter Bootstrap, and Font Awesome",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jeff Whitfield",
+            "homepage": "http://thejeffwhitfield.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=3.0"
+    }
+}

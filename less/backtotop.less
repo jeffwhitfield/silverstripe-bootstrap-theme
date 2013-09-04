@@ -1,0 +1,19 @@
+//
+// Back-to-Top button
+// --------------------------------------------------
+
+#back-to-top {
+    display: none;
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+    @media (max-width: @screen-xs-max) {
+      display: block;
+    }
+}
+#back-to-top.affix-top {
+    opacity: 0;
+}
+#back-to-top.affix {
+    opacity: .8;
+}
