@@ -1,10 +1,10 @@
 # Changelog
 
-### 1.0.0 - Aug 23, 2013
+### 1.0.0beta2 - Sep 4, 2013
 
-* Upgraded to Bootstrap 3.0 final
-* Final release
+* Updated version numbers
+* Preparation for submission to Packagist
 
-### 0.2.0 - Aug 2, 2013
+### 1.0.0beta1 - Sep 4, 2013
 
 * Initial release
