@@ -1,4 +1,4 @@
-# SilverStripe Bootstrap Theme v1.0.0beta2
+# SilverStripe Bootstrap Theme v1.0.0
 
 A SilverStripe Bootstrap theme that incorporates Twitter Bootstrap and Font Awesome
 
