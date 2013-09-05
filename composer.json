@@ -13,5 +13,14 @@
     "require": {
         "composer/installers": "*",
         "silverstripe/framework": ">=3.0"
+    },
+    "support": {
+        "issues": "https://github.com/jeffwhitfield/silverstripe-bootstrap-theme/issues"
+    },
+    "extra": {
+        "installer-name": "bootstrap"
+    },
+    "replace": {
+        "jeffwhitfield/silverstripe-bootstrap-theme": "*"
     }
 }
