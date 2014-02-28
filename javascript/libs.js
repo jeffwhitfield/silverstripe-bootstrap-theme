@@ -1,4 +1,4 @@
-window.jQuery || document.write('<script src="'+themedir+'/javascript/libs/jquery-1.10.2.min.js"><\/script>');
+window.jQuery || document.write('<script src="'+themedir+'/bower_components/jquery/dist/jquery.min.js"><\/script>');
 
 // Avoid `console` errors in browsers that lack a console.
 (function() {
