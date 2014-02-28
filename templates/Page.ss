@@ -16,7 +16,7 @@
     <script>
     themedir = '{$ThemeDir}';
     </script>
-    <script src="{$ThemeDir}/javascript/libs/modernizr-2.6.2.min.js"></script>
+    <script src="{$ThemeDir}/bower_components/modernizr/modernizr.js"></script>
 </head>
 <body>
 <% include Header %>
@@ -37,7 +37,7 @@ $Layout
 
 <% include Footer %>
 
-<div id="back-to-top" data-spy="affix" data-offset-top="100"><a href="#" class="btn btn-default"><i class="icon-chevron-up"><span class="hide">Back to Top</span></i></a></div>
+<div id="back-to-top" data-spy="affix" data-offset-top="100"><a href="#" class="btn btn-default"><i class="fa fa-chevron-up"><span class="hide">Back to Top</span></i></a></div>
 
 </body>
 </html>

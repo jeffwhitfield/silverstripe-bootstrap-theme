@@ -1,20 +1,10 @@
-//
-// Site-wide global styles
-// --------------------------------------------------
+// Bootstrap and Font Awesom
+@import "../bower_components/bootstrap/less/bootstrap.less";
+@import "../bower_components/font-awesome/less/font-awesome.less";
 
-body { padding-top: 70px; }
+// Custom variables
+@import "variables.less";
 
-.list-group-sub .list-group-item {
-  padding: 10px 30px 10px 30px;
-}
-
-.content {
-    // Fix layout of form items
-    .form-horizontal {
-        margin: 0 15px;
-        & > p {
-            margin-left: -15px;
-            margin-right: -15px;
-        }
-    }
-}
+// Components: Custom
+@import "backtotop.less";
+@import "global.less";
