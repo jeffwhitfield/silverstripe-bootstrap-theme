@@ -1,5 +1,5 @@
 <% if IncludeFormTag %>
-<form class="form-horizontal" $AttributesHTML>
+<form $getAttributesHTML(class) class="form-horizontal $extraClass">
 <% end_if %>
 	<% if Message %>
 	<div id="{$FormName}_error" class="alert alert-error message $MessageType">
