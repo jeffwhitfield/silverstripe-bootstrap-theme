@@ -1,5 +1,9 @@
 # Changelog
 
+### 2.0.0 - March 4, 2017
+
+* New version using Bootstrap v4 Alpha
+
 ### 1.2.0 - Feb 28, 2014
 
 * Updated configuration to use Bower for jQuery, Modernizr, Bootstrap, and Font Awesome
@@ -13,4 +17,3 @@
 ### 1.0.0 - Sep 4, 2013
 
 * Initial release
-

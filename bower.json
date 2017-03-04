@@ -1,19 +1,15 @@
 {
   "name": "SilverStripe Bootstrap Theme",
-  "version": "1.1.0",
+  "version": "2.0.0-beta",
   "homepage": "https://github.com/jeffwhitfield/silverstripe-bootstrap-theme",
   "authors": [
-    "Jeff Whitfield <jeffwhitfield@gmail.com>"
+    "Jeff Whitfield <jeff@soulcraftgroup.com>"
   ],
-  "description": "A SilverStripe Bootstrap theme that incorporates Twitter Bootstrap and Font Awesome",
-  "keywords": [
-    "silverstripe",
-    "twitter",
-    "bootstrap",
-    "font",
-    "awesome"
-  ],
+  "description": "Packages for default Bootstrap theme",
+  "main": "",
   "license": "MIT",
+  "homepage": "",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -22,9 +18,9 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.0",
-    "modernizr": "~2.7.1",
-    "bootstrap": "~3.1.1",
-    "font-awesome": "~4.0.3"
+    "bootstrap": "v4.0.0-alpha.6",
+    "html5shiv": "~3.7.*",
+    "picturefill": "^3.0.*",
+    "jquery": "^3.1.*"
   }
 }

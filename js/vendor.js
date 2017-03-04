@@ -1,0 +1,13 @@
+// @codekit-prepend "../bower_components/jquery/dist/jquery.slim.js";
+// @codekit-prepend "../bower_components/picturefill/dist/picturefill.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/util.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/alert.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/button.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/carousel.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/collapse.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/dropdown.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/modal.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/popover.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/scrollspy.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/tab.js";
+// @codekit-prepend "../bower_components/bootstrap/js/dist/tooltip.js";

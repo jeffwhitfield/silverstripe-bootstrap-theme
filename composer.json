@@ -1,6 +1,6 @@
 {
     "name": "jeffwhitfield/silverstripe-bootstrap-theme",
-    "description": "A SilverStripe Bootstrap theme that incorporates HTML5 Boilerplate, Twitter Bootstrap, and Font Awesome",
+    "description": "A SilverStripe Bootstrap v4 theme",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "theme"],
     "license": "Apache-2.0",
